@@ -16,7 +16,7 @@ cd /opt
 Se puede descargar el mismo con:
 
 ```
-wget https://git.conflux.pe/fnaquira/bash-sync-date/raw/master/sync.sh
+wget https://raw.githubusercontent.com/fnaquira/bash-sync-date/master/sync.sh
 ```
 
 Luego debemos otorgar permisos de ejecución a dicho archivo:
